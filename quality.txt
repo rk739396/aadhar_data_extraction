@@ -1,0 +1,17 @@
+aadhar3.jpg
+Quality Score = 57.31335277985883 - 67.03407679170138  (Contrast = 3)
+
+aadhar4.jpg
+Quality Score = 33.4418071214877
+
+aadhar5.jpg
+Quality Score = 37.268306003661195
+
+aadhar6.jpg
+Quality Score = 27.27030328071575  (NNNNNN)
+
+aadhar7.jpg
+Quality Score = 29.582574364328792
+
+aadhar8.jpg
+Quality Score = 25.111557236402376
