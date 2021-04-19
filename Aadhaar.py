@@ -12,8 +12,8 @@ import math
 from PIL import Image
 import numpy as np
 from scipy import ndimage
-import pytesseract
-from pytesseract import Output
+# import pytesseract
+# from pytesseract import Output
 import re
 import os
 
